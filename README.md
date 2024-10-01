@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kerem6790
-- 👀 I’m interested in blockchain
+- 👀 I’m a technical writer & researcher on web3, especially cryptographic topics.
+- check my articles!
+- Soon to be writing zk cirucits here!
 
-Hi everyone
